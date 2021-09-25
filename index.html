@@ -2,14 +2,63 @@
 <html lang="en">
 <head>
     <style>
+        body {font-family: verdana, sans-serif;
+            background-color: #be3b4b;
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            background-size: 300px 100px;
+        }
+        .white-box {
+            padding: 100% 0;
+            background-color: white;
+            margin: auto;
+            width: 70%;
+            height: 100%;
+        }
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        a.button1{
+            display:inline-block;
+            padding:0.35em 1.2em;
+            border:0.1em solid #FFFFFF;
+            margin:0 0.3em 0.3em 0;
+            border-radius:0.12em;
+            box-sizing: border-box;
+            text-decoration:none;
+            font-family:'Roboto',sans-serif;
+            font-weight:300;
+            color:#FFFFFF;
+            text-align:center;
+            transition: all 0.2s;
+        }
+        a.button1:hover{
+            color:#000000;
+            background-color:red;
+        }
+        @media all and (max-width:30em){
+            a.button1{
+                display:block;
+                margin:0.4em auto;
+            }
+        }
+
     </style>
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
 <body>
+<h1 style="text-align:center;font-family:verdana;">WHAT THE PLIST?</h1>
 
-    <h1 style="text-align:center;font-family:verdana;">WHAT THE PLIST?</h1>
+    <a href="login" class="button1">Log in</a>
+    <!---<button type="button" onclick="alert('Hello world!')">Log in</button>-->
 
+<div class = "white-box">
+    <img src="telo_2_uus.png" width="714" height="469" alt="phone" class="center">
+</div>
 
 </body>
 </html>
