@@ -1,44 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <title>Index</title>
+
     <style>
         body {font-family: verdana, sans-serif;
-            background-color: #be3b4b;
+            background-color: white;
             background-attachment: fixed;
             background-repeat: no-repeat;
             background-size: 300px 100px;
         }
-        .white-box {
-            padding: 100% 0;
-            background-color: white;
-            margin: auto;
-            width: 70%;
-            height: 100%;
+
+        .topright {
+            position: absolute;
+            top: 8px;
+            right: 16px;
         }
-        .center {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
+
+        .flex-container {
+            display: flex;
+            border: 5px outset #ff0000;
+            border-radius: 8px;
+            background-color: white;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .flex-container > div {
+            background-color: white;
+            margin: 10px;
+            padding: 20px;
+            font-size: 30px;
         }
 
         a.button1{
             display:inline-block;
             padding:0.35em 1.2em;
-            border:0.1em solid #FFFFFF;
+            border:0.1em solid black;
             margin:0 0.3em 0.3em 0;
             border-radius:0.12em;
             box-sizing: border-box;
             text-decoration:none;
             font-family:'Roboto',sans-serif;
             font-weight:300;
-            color:#FFFFFF;
+            color:black;
             text-align:center;
             transition: all 0.2s;
         }
+
         a.button1:hover{
             color:#000000;
             background-color:red;
         }
+
         @media all and (max-width:30em){
             a.button1{
                 display:block;
@@ -47,18 +62,41 @@
         }
 
     </style>
-    <meta charset="UTF-8">
-    <title>Title</title>
 </head>
 <body>
-<h1 style="text-align:center;font-family:verdana;">WHAT THE PLIST?</h1>
+<h1 style="text-align:center;">
+    <img src="plist_trans.png" width="368" height="120" alt="logo">
+</h1>
 
+<h2 class="topright">
     <a href="login" class="button1">Log in</a>
-    <!---<button type="button" onclick="alert('Hello world!')">Log in</button>-->
+</h2>
 
-<div class = "white-box">
-    <img src="telo_2_uus.png" width="714" height="469" alt="phone" class="center">
+<div style="text-align: center" class="flex-container">
+    <div>
+        <h3>
+            WHAT THE PLIST??
+        </h3>
+        <img src="yours" width="1053" height="592" alt="shoppingcart">
+        <h3>
+            Shopping will never be easier
+        </h3>
+        <img src="telo_2_uus.png" width="746" height="490" alt="phone">
+        <h3>
+            Yes, even for you!
+        </h3>
+        <img src="soovitab.png" width="549" height="423" alt="harold">
+    </div>
+
+    <div>
+        <h3>
+            How does it work??
+        </h3>
+        <img src="plan.jpg" width="996" height="352" alt="howdoesitwor">
+    </div>
+
 </div>
+
 
 </body>
 </html>
