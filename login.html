@@ -2,9 +2,9 @@
 <html lang="en">
 
 <head>
-
-
+    <link rel = "icon" href="plist_trans1.png" type = "image/x-icon">
     <style>
+
         .block {display: block}
         .must {color:black;
         font-size: 200% }
@@ -69,7 +69,7 @@
 
     </style>
     <meta charset="UTF-8">
-    <title>Welcome to Plist!</title>
+    <title>Login to Plist!</title>
 </head>
 
 <body>
@@ -96,11 +96,9 @@
         <input type="password" id="psw" name="psw">
     </div>
     <div class ="container"><input type="submit" value="Log in" onclick="OpenLink()"></div>
-
-
-        <script>
+    <script>
             function OpenLink(){
-                if(document.getElementById("psw").value.length == 0){
+                if(document.getElementById("psw").value.length === 0){
                     alert("Empty Field")
                 }else{ window.location.replace("index.html")}
             }
