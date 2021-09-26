@@ -1,0 +1,63 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"46a7d6ae-fec2-43da-88c4-4c8917cea40f\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/login.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/login.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Pull.Settings\">\r\n    <option name=\"BRANCH\" value=\"main\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1ycmgeWRdz0g9NElPVaRQPlEChF\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.lookFeel\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"46a7d6ae-fec2-43da-88c4-4c8917cea40f\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1632559362873</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1632559362873</updated>\r\n      <workItem from=\"1632559364027\" duration=\"8026000\" />\r\n      <workItem from=\"1632575153907\" duration=\"2352000\" />\r\n    </task>\r\n    <task id=\"LOCAL−00001\" summary=\"Tegin tühjad html failid kenasti valmis\">\r\n      <created>1632559572906</created>\r\n      <option name=\"number\" value=\"LOCAL−00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00001\" />\r\n      <updated>1632559572906</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00002\" summary=\"Made login.html for good.\">\r\n      <created>1632563690229</created>\r\n      <option name=\"number\" value=\"LOCAL−00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00002\" />\r\n      <updated>1632563690229</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00003\" summary=\"Added logo to login.html section.\">\r\n      <created>1632567759640</created>\r\n      <option name=\"number\" value=\"LOCAL−00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00003\" />\r\n      <updated>1632567759640</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00004\" summary=\"login.html - made some updates about box positioning\">\r\n      <created>1632583554705</created>\r\n      <option name=\"number\" value=\"LOCAL−00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00004\" />\r\n      <updated>1632583554705</updated>\r\n    </task>\r\n    <task id=\"LOCAL−00005\" summary=\"login.html - button is goood\">\r\n      <created>1632592863249</created>\r\n      <option name=\"number\" value=\"LOCAL−00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL−00005\" />\r\n      <updated>1632592863249</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Tegin tühjad html failid kenasti valmis\" />\r\n    <MESSAGE value=\"Made login.html for good.\" />\r\n    <MESSAGE value=\"Added logo to login.html section.\" />\r\n    <MESSAGE value=\"login.html - made some updates about box positioning\" />\r\n    <MESSAGE value=\"login.html - button is goood\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"login.html - button is goood\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"2411\" y=\"2\" key=\"CommitChangelistDialog2\" timestamp=\"1632592862765\">\r\n      <screen x=\"1920\" y=\"2\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"393\" y=\"0\" key=\"CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@0.0.1536.824\" timestamp=\"1632567759097\" />\r\n    <state x=\"2411\" y=\"2\" key=\"CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040\" timestamp=\"1632592862765\" />\r\n    <state x=\"549\" y=\"167\" key=\"FileChooserDialogImpl\" timestamp=\"1632566500076\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"549\" y=\"167\" key=\"FileChooserDialogImpl/0.0.1536.824/1920.2.1920.1040@0.0.1536.824\" timestamp=\"1632566500076\" />\r\n    <state x=\"2381\" y=\"166\" key=\"SettingsEditor\" timestamp=\"1632579155643\">\r\n      <screen x=\"1920\" y=\"2\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"2381\" y=\"166\" key=\"SettingsEditor/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040\" timestamp=\"1632579155643\" />\r\n    <state x=\"2371\" y=\"185\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1632592875669\">\r\n      <screen x=\"1920\" y=\"2\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@0.0.1536.824\" timestamp=\"1632567909345\" />\r\n    <state x=\"2371\" y=\"185\" key=\"Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040\" timestamp=\"1632592875669\" />\r\n    <state x=\"2697\" y=\"435\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1632643426673\">\r\n      <screen x=\"1920\" y=\"2\" width=\"1920\" height=\"1040\" />\r\n    </state>\r\n    <state x=\"2697\" y=\"435\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040\" timestamp=\"1632643426673\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision e6cf7d22d9725f23d559ce4c6e7081a1d7879aa0)
++++ .idea/workspace.xml	(date 1632654944635)
+@@ -78,7 +78,13 @@
+       <option name="presentableId" value="LOCAL−00005" />
+       <updated>1632592863249</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL−00006" summary="login.html - New look + button works correctly.">
++      <created>1632654398514</created>
++      <option name="number" value="LOCAL−00006" />
++      <option name="presentableId" value="LOCAL−00006" />
++      <updated>1632654398514</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -90,14 +96,15 @@
+     <MESSAGE value="Added logo to login.html section." />
+     <MESSAGE value="login.html - made some updates about box positioning" />
+     <MESSAGE value="login.html - button is goood" />
+-    <option name="LAST_COMMIT_MESSAGE" value="login.html - button is goood" />
++    <MESSAGE value="login.html - New look + button works correctly." />
++    <option name="LAST_COMMIT_MESSAGE" value="login.html - New look + button works correctly." />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="2411" y="2" key="CommitChangelistDialog2" timestamp="1632592862765">
++    <state x="2411" y="2" key="CommitChangelistDialog2" timestamp="1632654398005">
+       <screen x="1920" y="2" width="1920" height="1040" />
+     </state>
+     <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1632567759097" />
+-    <state x="2411" y="2" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632592862765" />
++    <state x="2411" y="2" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632654398005" />
+     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1632566500076">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+@@ -106,14 +113,14 @@
+       <screen x="1920" y="2" width="1920" height="1040" />
+     </state>
+     <state x="2381" y="166" key="SettingsEditor/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632579155643" />
+-    <state x="2371" y="185" key="Vcs.Push.Dialog.v2" timestamp="1632592875669">
++    <state x="2371" y="185" key="Vcs.Push.Dialog.v2" timestamp="1632654409084">
+       <screen x="1920" y="2" width="1920" height="1040" />
+     </state>
+     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1632567909345" />
+-    <state x="2371" y="185" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632592875669" />
+-    <state x="2697" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632643426673">
++    <state x="2371" y="185" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632654409084" />
++    <state x="2697" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632654768098">
+       <screen x="1920" y="2" width="1920" height="1040" />
+     </state>
+-    <state x="2697" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632643426673" />
++    <state x="2697" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632654768098" />
+   </component>
+ </project>
+\ No newline at end of file

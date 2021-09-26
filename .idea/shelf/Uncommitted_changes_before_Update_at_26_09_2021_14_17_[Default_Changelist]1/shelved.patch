@@ -1,0 +1,26 @@
+Index: login.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n\r\n    <style>\r\n        .block {display: block}\r\n        .must {color:black;\r\n        font-size: 200% }\r\n        .punane {\r\n            color:red;\r\n            font-size: 200%;\r\n        }\r\n        img {border-radius: 1px;\r\n            width: 50%;\r\n            height: auto;\r\n            text-align: center;\r\n        }\r\n        body {font-family: Arial, sans-serif;}\r\n        .myDiv {\r\n            border: 5px outset #ff0000;\r\n            background-color: #ffffff;\r\n            text-align: center;\r\n            width: 500px;\r\n            height: auto;\r\n            padding: 70px 0;\r\n            border-radius: 8px;\r\n            margin: auto;\r\n        }\r\n        /* Style all input fields */\r\n        input {\r\n            width: 25%;\r\n            padding: 12px;\r\n            border: 1px solid #ccc;\r\n            border-radius: 4px;\r\n            box-sizing: border-box;\r\n            margin-top: 6px;\r\n            margin-bottom: 16px;\r\n\r\n        }\r\n        /* Style the submit button */\r\n        input[type=submit] {\r\n            background-color: #f80606;\r\n            width: 20%;\r\n            color: white;\r\n\r\n        }\r\n        /* Style the container for inputs */\r\n        .container {\r\n            background-color: #f1f1f1;\r\n            width: 100%;\r\n            text-align: center;\r\n        }\r\n        /* The message box is shown when the user clicks on the password field */\r\n        #message {\r\n            display:none;\r\n            background: #f1f1f1;\r\n            color: #000;\r\n            position: relative;\r\n            padding: 20px;\r\n            margin-top: 10px;\r\n        }\r\n        #message p {\r\n            width: 100%;\r\n            font-size: 20px;\r\n        }\r\n    </style>\r\n    <meta charset=\"UTF-8\">\r\n    <title>Welcome to Plist!</title>\r\n</head>\r\n\r\n<body>\r\n<div class = \"myDiv\">\r\n        <span class=\"must\">W</span>\r\n        <span class=\"punane\">e</span>\r\n        <span class=\"must\">l c</span>\r\n        <span class=\"punane\">o</span>\r\n        <span class=\"must\">m</span>\r\n        <span class=\"punane\">e</span>\r\n        <span class=\"block\"></span>\r\n        <span class=\"punane\">T</span>\r\n        <span class=\"must\">o</span>\r\n        <span class=\"block\"></span>\r\n        <img src=\"plist_trans.png\" alt=\"Plist\">\r\n        <p>Log in</p>\r\n        <div class=\"container\">\r\n            <label for=\"usrname\">Username</label>\r\n        <input type=\"text\" id=\"usrname\" name=\"usrname\" required>\r\n\r\n</div>\r\n    <div class=\"container\">\r\n        <label for=\"psw\">Password</label>\r\n        <input type=\"password\" id=\"psw\" name=\"psw\">\r\n    </div>\r\n    <div class =\"container\"><input type=\"submit\" value=\"Log in\" onclick=\"OpenLink()\"></div>\r\n\r\n\r\n        <script>\r\n            function OpenLink(){\r\n                if(document.getElementById(\"psw\").value.length == 0){\r\n                    alert(\"Empty Field\")\r\n                }else{ window.open(\"index.html\")}\r\n\r\n            }\r\n\r\n</script>\r\n    </div>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- login.html	(revision e6cf7d22d9725f23d559ce4c6e7081a1d7879aa0)
++++ login.html	(date 1632654944280)
+@@ -63,6 +63,8 @@
+             width: 100%;
+             font-size: 20px;
+         }
++
++
+     </style>
+     <meta charset="UTF-8">
+     <title>Welcome to Plist!</title>
+@@ -99,7 +101,6 @@
+                 if(document.getElementById("psw").value.length == 0){
+                     alert("Empty Field")
+                 }else{ window.open("index.html")}
+-
+             }
+ 
+ </script>
