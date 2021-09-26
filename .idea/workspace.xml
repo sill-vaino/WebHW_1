@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="Changed the filenames" />
+    <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="Made some changes in index">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,17 +81,17 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1632654741705</updated>
     </task>
-    <task id="LOCAL−00007" summary="Added some images">
-      <created>1632654912173</created>
+    <task id="LOCAL−00007" summary="By clicking Log in it now replaces window -&gt; Before it created just a new one">
+      <created>1632655478674</created>
       <option name="number" value="LOCAL−00007" />
       <option name="presentableId" value="LOCAL−00007" />
-      <updated>1632654912173</updated>
+      <updated>1632655478674</updated>
     </task>
-    <task id="LOCAL−00008" summary="Changed the filenames">
-      <created>1632655010999</created>
+    <task id="LOCAL−00008" summary="Made some changes in index">
+      <created>1632655572604</created>
       <option name="number" value="LOCAL−00008" />
       <option name="presentableId" value="LOCAL−00008" />
-      <updated>1632655010999</updated>
+      <updated>1632655572604</updated>
     </task>
     <option name="localTasksCounter" value="9" />
     <servers />
@@ -114,9 +117,26 @@
     <MESSAGE value="Added logo to login.html section." />
     <MESSAGE value="login.html - made some updates about box positioning" />
     <MESSAGE value="login.html - button is goood" />
+    <MESSAGE value="By clicking Log in it now replaces window -&gt; Before it created just a new one" />
     <MESSAGE value="Made some changes in index" />
-    <MESSAGE value="Added some images" />
-    <MESSAGE value="Changed the filenames" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed the filenames" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made some changes in index" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2429" y="99" key="CommitChangelistDialog2" timestamp="1632655572083">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2429" y="99" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632655572083" />
+    <state x="2257" y="173" key="MergeDialog" timestamp="1632655360630">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2257" y="173" key="MergeDialog/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632655360630" />
+    <state x="2471" y="254" key="Vcs.Push.Dialog.v2" timestamp="1632655579356">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2471" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632655579356" />
+    <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632655345538">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632655345538" />
   </component>
 </project>
