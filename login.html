@@ -4,8 +4,10 @@
 <head>
     <link rel = "icon" href="plist_trans1.png" type = "image/x-icon">
     <style>
-
+        img ~ p {background-color: black}
+        img + p { color:red}
         .block {display: block}
+
         .must {color:black;
         font-size: 200% }
         .punane {
@@ -32,7 +34,7 @@
         input {
             width: 25%;
             padding: 12px;
-            border: 1px solid #ccc;
+            border: 1px solid #cccccc;
             border-radius: 4px;
             box-sizing: border-box;
             margin-top: 6px;
@@ -98,8 +100,10 @@
     <div class ="container"><input type="submit" value="Log in" onclick="OpenLink()"></div>
     <script>
             function OpenLink(){
-                if(document.getElementById("psw").value.length === 0){
-                    alert("Empty Field")
+                if(document.getElementById("usrname").value.length===0){
+                    alert("Pleaser type your Username")
+                }if(document.getElementById("psw",).value.length === 0){
+                    alert("Please type your Password")
                 }else{ window.location.replace("index.html")}
             }
 
