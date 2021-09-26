@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,13 @@
       <option name="presentableId" value="LOCAL−00011" />
       <updated>1632657926731</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL−00012" summary="Typo corrected. on login.html">
+      <created>1632662850206</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1632662850206</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,24 +145,25 @@
     <MESSAGE value="Made some changes in index" />
     <MESSAGE value="Icon making" />
     <MESSAGE value="Icon making done for good" />
-    <option name="LAST_COMMIT_MESSAGE" value="Icon making done for good" />
+    <MESSAGE value="Typo corrected. on login.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Typo corrected. on login.html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2429" y="99" key="CommitChangelistDialog2" timestamp="1632657926231">
+    <state x="2429" y="99" key="CommitChangelistDialog2" timestamp="1632662849640">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
-    <state x="2429" y="99" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632657926231" />
+    <state x="2429" y="99" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632662849640" />
     <state x="2257" y="173" key="MergeDialog" timestamp="1632655360630">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
     <state x="2257" y="173" key="MergeDialog/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632655360630" />
-    <state x="2471" y="254" key="Vcs.Push.Dialog.v2" timestamp="1632657942359">
+    <state x="2471" y="254" key="Vcs.Push.Dialog.v2" timestamp="1632662855539">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
-    <state x="2471" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632657942359" />
-    <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632657916116">
+    <state x="2471" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632662855539" />
+    <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1632663081584">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
-    <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632657916116" />
+    <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1632663081584" />
   </component>
 </project>
