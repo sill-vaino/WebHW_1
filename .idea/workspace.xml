@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="added a child selector">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_09_2021_17_16_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_25_09_2021_17_16__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_14_17_[Default_Changelist]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_14_17__Default_Changelist_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_14_22_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_14_22__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_16_52_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_16_52__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_16_56__Default_Changelist_.xml" beforeDir="false" />
+    <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/user.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="tsconfig.json" />
       </list>
     </option>
   </component>
@@ -38,9 +35,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -52,7 +64,9 @@
       <updated>1632559362873</updated>
       <workItem from="1632559364027" duration="8026000" />
       <workItem from="1632575153907" duration="2352000" />
-      <workItem from="1633431550178" duration="3077000" />
+      <workItem from="1633474521674" duration="1334000" />
+      <workItem from="1635075808011" duration="2055000" />
+      <workItem from="1635264501917" duration="3722000" />
     </task>
     <task id="LOCAL−00001" summary="Tegin tühjad html failid kenasti valmis">
       <created>1632559572906</created>
@@ -126,13 +140,37 @@
       <option name="presentableId" value="LOCAL−00012" />
       <updated>1632662850206</updated>
     </task>
-    <task id="LOCAL−00013" summary="added a child selector">
-      <created>1632665584664</created>
+    <task id="LOCAL−00013" summary="this is a test">
+      <created>1632664614781</created>
       <option name="number" value="LOCAL−00013" />
       <option name="presentableId" value="LOCAL−00013" />
-      <updated>1632665584664</updated>
+      <updated>1632664614781</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL−00014" summary="Added adjacent Sibling and General Sibling Selector">
+      <created>1632666430182</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1632666430182</updated>
+    </task>
+    <task id="LOCAL−00015" summary="Added Needed text to README.md">
+      <created>1632666664703</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1632666664703</updated>
+    </task>
+    <task id="LOCAL−00016" summary="Created 2 css file ( one for login.html as login.css &amp;&amp; one for index.html as index.css">
+      <created>1633475313458</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1633475313458</updated>
+    </task>
+    <task id="LOCAL−00017" summary="added specific comments for index.css &amp; login.css">
+      <created>1633475640882</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1633475640882</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +199,21 @@
     <MESSAGE value="Icon making" />
     <MESSAGE value="Icon making done for good" />
     <MESSAGE value="Typo corrected. on login.html" />
-    <MESSAGE value="added a child selector" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a child selector" />
+    <MESSAGE value="this is a test" />
+    <MESSAGE value="Added adjacent Sibling and General Sibling Selector" />
+    <MESSAGE value="Added Needed text to README.md" />
+    <MESSAGE value="Created 2 css file ( one for login.html as login.css &amp;&amp; one for index.html as index.css" />
+    <MESSAGE value="added specific comments for index.css &amp; login.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="added specific comments for index.css &amp; login.css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="276" y="57" key="SettingsEditor" timestamp="1635076264931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="276" y="57" key="SettingsEditor/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1635076264931" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1635076469611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1635076469611" />
   </component>
 </project>
