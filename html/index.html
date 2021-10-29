@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="../css/index.css">
     <meta charset="UTF-8">
     <title>Main Page</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
     <style>
     </style>
@@ -24,15 +25,15 @@
             WHAT THE PLIST!
         </p>
 
-        <img src="../assets/webp_images/your.jpg" width="1053" height="592" alt="shoppingcart">
+        <img src="../assets/webp_images/your.jpg" width="50%" height="auto" alt="shoppingcart">
         <h3>
             Shopping will never be easier
         </h3>
-        <img src="../assets/webp_images/telo_2_uus.png" width="746" height="490" alt="phone">
+        <img src="../assets/webp_images/telo_2_uus.png" width="50%" height="auto" alt="phone">
         <h3>
             Yes, even for you!
         </h3>
-        <img src="../assets/webp_images/soovitab.png" width="549" height="423" alt="harold">
+        <img src="../assets/webp_images/soovitab.png" width="50%" height="auto" alt="harold">
     </div>
 
     <div>
@@ -40,8 +41,17 @@
             How does it work??
         </h3>
         <img src="../assets/webp_images/plan.jpg" width="996" height="352" alt="howdoesitwor">
+
+        <div class="foorum"> <h3>Forum</h3><div class="mypanel"></div></div>
+
     </div>
     <script>
+        $.getJSON("https://955u06d6fa.execute-api.eu-west-1.amazonaws.com/latest/%5B%7B%22ID%22%3A1%2C%22name%22%3A%22Katariina%22%2C%22time_of_posting%22%3A%2223.10.2021%22%2C%22feedback%22%3A%22I'm%20really%20enjoying%20this%20new%20way%20of%20shopping.%20Everything%20is%20just%20so%20easy%20now.%20Keep%20up%20the%20good%20work!%20%3A)%22%2C%22image%22%3A%22post_1.jpg%22%7D%2C%7B%22ID%22%3A2%2C%22name%22%3A%22Catlyn%22%2C%22time_of_posting%22%3A%2222.10.2021%22%2C%22feedback%22%3A%22hea%22%2C%22image%22%3A%22post_2.jpg%22%7D%2C%7B%22ID%22%3A3%2C%22name%22%3A%22Jason%20V.%22%2C%22time_of_posting%22%3A%2224.11.2020%22%2C%22feedback%22%3A%22hea%22%2C%22image%22%3A%22post_3.jpg%22%7D%2C%7B%22ID%22%3A4%2C%22name%22%3A%22Toomas%22%2C%22time_of_posting%22%3A%2218.10.2021%22%2C%22feedback%22%3A%22hea%22%2C%22image%22%3A%22post_5.jpg%22%7D%2C%7B%22ID%22%3A5%2C%22name%22%3A%22Emily%22%2C%22time_of_posting%22%3A%2202.10.2021%22%2C%22feedback%22%3A%22hea%22%2C%22image%22%3A%22post_4.jpg%22%7D%2C%7B%22ID%22%3A6%2C%22name%22%3A%22Mark%22%2C%22time_of_posting%22%3A%22idk%22%2C%22feedback%22%3A%22hea%22%2C%22image%22%3A%22post_6.jpg%22%7D%2C%7B%22ID%22%3A7%2C%22name%22%3A%22Lisa%22%2C%22time_of_posting%22%3A%2201.09.2021%22%2C%22feedback%22%3A%22hea%22%2C%22image%22%3A%22post_7.jpg%22%7D%2C%7B%22ID%22%3A8%2C%22name%22%3A%22Margharet%22%2C%22time_of_posting%22%3A%2213.05.2021%22%2C%22feedback%22%3A%22hea%22%2C%22image%22%3A%22post_10.jpg%22%7D%2C%7B%22ID%22%3A9%2C%22name%22%3A%22Kevin%22%2C%22time_of_posting%22%3A%2222.10.2021%22%2C%22feedback%22%3A%22hea%22%2C%22image%22%3A%22post_9.jpg%22%7D%2C%7B%22ID%22%3A10%2C%22name%22%3A%22Rasmus%22%2C%22time_of_posting%22%3A%2223.10.2021%22%2C%22feedback%22%3A%22hea%22%2C%22image%22%3A%22post_8.jpg%22%7D%5D", function(data) {
+            for (var i = 0; i < data.length; i++) {
+                var text =  `            <p class="name"><b> ${data[i].name}</b><br><small>${data[i].time_of_posting}</small></p>                                  <p class="feedback"><br>${data[i].feedback}</p><br>                       <img class="contact" src=${data[i].image} width="60%" height="auto" alt="Picture"><br>\n                    `
+                $(".mypanel").append("<div class='data'>" + text + "</div>");
+            }
+        });
     </script>
 
 </div>

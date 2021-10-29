@@ -1,8 +1,45 @@
  /*this is the css file for  index.html files.
 Here you can find all intel about lindex.html design tool*/
 
+.foorum{
+    background-color: #d6a5a5;
+    border-radius: 8px;
+    border:2px solid #e01313;
+    width: 70%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 
 
+}
+ small{
+     color: rgba(0, 0, 0, 0.5);
+ }
+ .feedback{
+     font-weight: bold;
+     font-size: small;
+     font-family: Helvetica;
+ }
+ .contact{
+     border: 1px solid red;
+ }
+ .name {
+     font-size: medium;
+     font-family: Helvetica;
+ }
+ .data {
+     border-radius: 8px;
+     text-align: left;
+     width: 40%;
+     border:2px solid #020202;
+     padding: 10px;
+     margin: auto;
+     display: compact;
+     justify-content: center;
+     align-items: center;
+     background-color: white;
+
+ }
 
 
 body {font-family: verdana, sans-serif;
@@ -12,9 +49,8 @@ body {font-family: verdana, sans-serif;
     background-size: 300px 100px;
 }
 
-div p{
-    background: red;
-}
+
+
 
 div > p {
     color:black;
