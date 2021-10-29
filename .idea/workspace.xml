@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="added specific comments for index.css &amp; login.css">
+    <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="added images for the posts">
+      <change beforePath="$PROJECT_DIR$/.idea/WebHW_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WebHW_1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/user.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="tsconfig.json" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -35,11 +35,12 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kgloog\Desktop\WebHW_1\assets\post_images" />
       <recent name="C:\Users\silverva\Desktop\WebHW_1\css " />
     </key>
   </component>
@@ -69,6 +70,7 @@
       <workItem from="1633474521674" duration="1334000" />
       <workItem from="1635075808011" duration="2055000" />
       <workItem from="1635264501917" duration="5157000" />
+      <workItem from="1635363834234" duration="1937000" />
     </task>
     <task id="LOCAL−00001" summary="Tegin tühjad html failid kenasti valmis">
       <created>1632559572906</created>
@@ -178,7 +180,14 @@
       <option name="presentableId" value="LOCAL−00018" />
       <updated>1635271202558</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="added images for the posts">
+      <created>1635359539727</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1635359539727</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +222,11 @@
     <MESSAGE value="Created 2 css file ( one for login.html as login.css &amp;&amp; one for index.html as index.css" />
     <MESSAGE value="added specific comments for index.css &amp; login.css" />
     <MESSAGE value="had to commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="had to commit" />
+    <MESSAGE value="added images for the posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="added images for the posts" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
