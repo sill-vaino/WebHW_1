@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="Created directory &quot;webp_images&quot;">
-      <change afterPath="$PROJECT_DIR$/html/post_4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/WebHW_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WebHW_1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/post_images/post_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/post_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/post_images/post_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/post_10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/post_images/post_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/post_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/post_images/post_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/post_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/post_images/post_4.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/post_images/post_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/post_5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/post_images/post_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/post_6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/post_images/post_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/post_7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/post_images/post_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/post_8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/post_images/post_9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/html/post_9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
