@@ -1,5 +1,38 @@
-/*this is the css file for  index.html files.
+/*this is the css file for  user_view.html files.
 Here you can find all intel about lindex.html design tool*/
+
+#icon {
+    width: 3rem;
+    height: 3rem;
+    margin-right: 1rem;
+    border-radius: 2rem;
+}
+
+#icon:hover {
+    cursor: pointer;
+    background-color: rgb(163, 163, 163);
+}
+
+.dropdown {
+    position: relative;
+}
+.dropdown-content {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    height: auto;
+    width: auto;
+    background-color: rgb(136, 136, 136);
+    padding: 1rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    font-size: 1rem;
+}
+
+.hidden {
+    display: none;
+}
+
 
 .foorum{
     background-color: #d6a5a5;
@@ -59,6 +92,7 @@ div > p {
 }
 
 .topright {
+    display: flex;
     position: absolute;
     top: 8px;
     right: 16px;
@@ -85,7 +119,7 @@ a.button1{
     padding:0.35em 1.2em;
     border:0.1em solid black;
     margin:0 0.3em 0.3em 0;
-    border-radius:0.12em;
+    border-radius:8px;
     box-sizing: border-box;
     text-decoration:none;
     font-family:'Roboto',sans-serif;
@@ -101,8 +135,8 @@ a.button1:hover{
 }
 
 @media all and (max-width:30em){
-    a.button1{
-        display:block;
-        margin:0.4em auto;
+    a.button1 {
+        display: block;
+        margin: 0.4em auto;
     }
 }

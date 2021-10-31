@@ -11,40 +11,35 @@
 </head>
 
 <body>
-<div class = "myDiv">
-        <span class="must">W</span>
-        <span class="punane">e</span>
-        <span class="must">l c</span>
-        <span class="punane">o</span>
-        <span class="must">m</span>
-        <span class="punane">e</span>
-        <span class="block"></span>
-        <span class="punane">T</span>
-        <span class="must">o</span>
-        <span class="block"></span>
-        <img src="../assets/webp_images/plist_trans.png" alt="Plist">
+<div class="myDiv">
+    <span class="must">W</span>
+    <span class="punane">e</span>
+    <span class="must">l c</span>
+    <span class="punane">o</span>
+    <span class="must">m</span>
+    <span class="punane">e</span>
+    <span class="block"></span>
+    <span class="punane">T</span>
+    <span class="must">o</span>
+    <span class="block"></span>
+    <img src="../assets/webp_images/plist_trans.png" alt="Plist">
+    <form id="form" method = "POST">
         <p>Log in</p>
         <div class="container">
             <label for="usrname">Username</label>
-        <input type="text" id="usrname" name="usrname" required>
-
+            <input type="text" id="usrname" name="usrname" required>
+        </div>
+        <div class="container">
+            <label for="psw">Password</label>
+            <input type="password" id="psw" name="psw">
+        </div>
+        <div class ="container">
+            <button id="login_button" type="submit" value="Log in">SUBMIT</button>
+        </div>
+    </form>
 </div>
-    <div class="container">
-        <label for="psw">Password</label>
-        <input type="password" id="psw" name="psw">
-    </div>
-    <div class ="container"><input type="submit" value="Log in" onclick="OpenLink()"></div>
-    <script>
-
-            function OpenLink(){
-                if(document.getElementById("usrname").value.length===0){
-                    alert("Pleaser type your Username")
-                }if(document.getElementById("psw",).value.length === 0){
-                    alert("Please type your Password")
-                }else{ window.location.replace("index.html")}
-            }
-
-</script>
-    </div>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="../javascript/Login.js"></script>
+<script src="../javascript/openlink.js"></script>
 </body>
 </html>

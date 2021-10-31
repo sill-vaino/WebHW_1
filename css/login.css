@@ -44,12 +44,20 @@ input {
 
 }
 /* Style the submit button */
-input[type=submit] {
+button[type=submit] {
     background-color: #f80606;
     width: 20%;
     color: white;
+    height: 3rem;
 
 }
+button[type=submit]:hover {
+    color: red;
+    background-color: black;
+    border: 1px solid red;
+}
+
+
 /* Style the container for inputs */
 .container {
     background-color: #f1f1f1;

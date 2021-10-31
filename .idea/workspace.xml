@@ -2,8 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="Created directory &quot;webp_images&quot;">
+      <change afterPath="$PROJECT_DIR$/WebHW_1/css/user_view.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebHW_1/html/user_view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebHW_1/javascript/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebHW_1/javascript/user_view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/webp_images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/user_view.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/user_view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/openlink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javascript/user_view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/WebHW_1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_14_17_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_14_17__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebHW_1/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebHW_1/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebHW_1/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebHW_1/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebHW_1/html/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebHW_1/html/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +38,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="tsconfig.json" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -30,6 +55,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1ycmgeWRdz0g9NElPVaRQPlEChF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,15 +68,16 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\silverva\Desktop\WebHW_1\html" />
-      <recent name="C:\Users\silverva\Desktop\WebHW_1\assets\post_images" />
       <recent name="C:\Users\silverva\Desktop\WebHW_1\assets\webp_images" />
-      <recent name="C:\Users\silverva\Desktop\WebHW_1\css " />
+      <recent name="C:\Users\silverva\Desktop\WebHW_1\html" />
+      <recent name="C:\Users\silverva\Desktop\WebHW_1\javascript" />
+      <recent name="C:\Users\silverva\Desktop\WebHW_1" />
+      <recent name="C:\Users\silverva\Desktop\WebHW_1\html\post_images" />
     </key>
   </component>
   <component name="RunManager">
@@ -85,6 +112,12 @@
       <workItem from="1635456132249" duration="3757000" />
       <workItem from="1635459938133" duration="2673000" />
       <workItem from="1635462658607" duration="10546000" />
+      <workItem from="1635631039766" duration="4954000" />
+      <workItem from="1635636046232" duration="2689000" />
+      <workItem from="1635694954548" duration="1368000" />
+      <workItem from="1635696594323" duration="2078000" />
+      <workItem from="1635698782221" duration="6393000" />
+      <workItem from="1635710374167" duration="1822000" />
     </task>
     <task id="LOCAL−00001" summary="Tegin tühjad html failid kenasti valmis">
       <created>1632559572906</created>
@@ -239,10 +272,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="Created directory &quot;webp_images&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2505" y="199" key="#Inspections" timestamp="1635364082615">
-      <screen x="1920" y="2" width="1920" height="1040" />
+    <state x="2505" y="207" key="#Inspections" timestamp="1635697192082">
+      <screen x="1920" y="2" width="1920" height="1080" />
     </state>
     <state x="2505" y="199" key="#Inspections/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635364082615" />
+    <state x="2505" y="207" key="#Inspections/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635697192082" />
     <state x="2609" y="301" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1635362447658">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
@@ -251,25 +285,45 @@
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
     <state x="2428" y="90" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635513511884" />
-    <state x="2659" y="276" key="FileChooserDialogImpl" timestamp="1635362221225">
-      <screen x="1920" y="2" width="1920" height="1040" />
+    <state x="591" y="217" key="FileChooserDialogImpl" timestamp="1635710053855">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="591" y="217" key="FileChooserDialogImpl/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1635710053855" />
     <state x="2659" y="276" key="FileChooserDialogImpl/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635362221225" />
-    <state x="2380" y="167" key="SettingsEditor" timestamp="1635363775385">
-      <screen x="1920" y="2" width="1920" height="1040" />
+    <state x="2380" y="173" key="SettingsEditor" timestamp="1635697375960">
+      <screen x="1920" y="2" width="1920" height="1080" />
     </state>
     <state x="2380" y="167" key="SettingsEditor/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635363775385" />
+    <state x="2380" y="173" key="SettingsEditor/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635697375960" />
     <state x="2471" y="254" key="Vcs.Push.Dialog.v2" timestamp="1635359789646">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
     <state x="2471" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635359789646" />
+    <state x="2012" y="94" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1635698085934">
+      <screen x="1920" y="2" width="1920" height="1080" />
+    </state>
+    <state x="2012" y="94" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635698085934" />
+    <state x="2012" y="94" width="1736" height="856" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1635698085934">
+      <screen x="1920" y="2" width="1920" height="1080" />
+    </state>
+    <state x="2012" y="94" width="1736" height="856" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635698085934" />
+    <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635619956857">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635619956857" />
+    <state x="2493" y="31" width="1173" height="811" maximized="true" key="dock-window-1" timestamp="1635635849350">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2493" y="31" width="1173" height="811" maximized="true" key="dock-window-1/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1635635849350" />
     <state x="2650" y="396" width="628" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1635461513818">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
     <state x="2650" y="396" width="628" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635461513818" />
-    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1635517117079">
-      <screen x="1920" y="2" width="1920" height="1040" />
+    <state x="2543" y="235" width="840" height="706" key="search.everywhere.popup" timestamp="1635697348323">
+      <screen x="1920" y="2" width="1920" height="1080" />
     </state>
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1635635177195" />
     <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635517117079" />
+    <state x="2543" y="235" width="840" height="706" key="search.everywhere.popup/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635697348323" />
   </component>
 </project>
