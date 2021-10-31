@@ -1,34 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="Created directory &quot;webp_images&quot;">
-      <change afterPath="$PROJECT_DIR$/WebHW_1/css/user_view.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebHW_1/html/user_view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebHW_1/javascript/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebHW_1/javascript/user_view.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/webp_images/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/user_view.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/user_view.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/Login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/openlink.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javascript/user_view.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/WebHW_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_14_17_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_14_17__Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebHW_1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebHW_1/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebHW_1/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebHW_1/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebHW_1/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebHW_1/html/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebHW_1/html/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/login.html" afterDir="false" />
+    <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/html/user_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/user_view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript/openlink.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/openlink.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +92,7 @@
       <workItem from="1635694954548" duration="1368000" />
       <workItem from="1635696594323" duration="2078000" />
       <workItem from="1635698782221" duration="6393000" />
-      <workItem from="1635710374167" duration="1822000" />
+      <workItem from="1635710374167" duration="2120000" />
     </task>
     <task id="LOCAL−00001" summary="Tegin tühjad html failid kenasti valmis">
       <created>1632559572906</created>
@@ -233,7 +208,13 @@
       <option name="presentableId" value="LOCAL−00019" />
       <updated>1635359773960</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL−00020" summary="Maded some javascript classes and modified all page">
+      <created>1635718428794</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1635718428794</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +250,8 @@
     <MESSAGE value="added specific comments for index.css &amp; login.css" />
     <MESSAGE value="had to commit" />
     <MESSAGE value="Created directory &quot;webp_images&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created directory &quot;webp_images&quot;" />
+    <MESSAGE value="Maded some javascript classes and modified all page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maded some javascript classes and modified all page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2505" y="207" key="#Inspections" timestamp="1635697192082">
@@ -281,10 +263,10 @@
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
     <state x="2609" y="301" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635362447658" />
-    <state x="2428" y="90" key="CommitChangelistDialog2" timestamp="1635513511884">
+    <state x="2428" y="90" key="CommitChangelistDialog2" timestamp="1635718427482">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
-    <state x="2428" y="90" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635513511884" />
+    <state x="2428" y="90" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635718427482" />
     <state x="591" y="217" key="FileChooserDialogImpl" timestamp="1635710053855">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -295,10 +277,10 @@
     </state>
     <state x="2380" y="167" key="SettingsEditor/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635363775385" />
     <state x="2380" y="173" key="SettingsEditor/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635697375960" />
-    <state x="2471" y="254" key="Vcs.Push.Dialog.v2" timestamp="1635359789646">
+    <state x="2471" y="254" key="Vcs.Push.Dialog.v2" timestamp="1635718442326">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
-    <state x="2471" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635359789646" />
+    <state x="2471" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635718442326" />
     <state x="2012" y="94" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1635698085934">
       <screen x="1920" y="2" width="1920" height="1080" />
     </state>
