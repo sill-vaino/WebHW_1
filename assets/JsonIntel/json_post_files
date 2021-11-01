@@ -1,0 +1,62 @@
+[
+    {
+        "ID":1,
+        "name":"Katariina",
+        "time_of_posting":"23.10.2021",
+        "feedback":"I'm really enjoying this new way of shopping. Everything is just so easy now! Keep up the good work! :)",
+        "image":"post_1.jpg"
+    },
+
+    {
+        "ID":2,"name":"Catlyn",
+        "time_of_posting":"22.10.2021",
+        "feedback":"At first I wasn't sure if it is for me, but now I can't imagine shopping without Plist!",
+        "image":"post_2.jpg"
+    },
+    {
+        "ID":3,"name":"Jason V.",
+        "time_of_posting":"24.11.2020",
+        "feedback":"In order to fight this pandemic we need to cut our shoppingtimes short shorter and Plist is an excellent way to achieve that!",
+        "image":"post_3.jpg"
+    },
+    {
+        "ID":4,"name":"Toomas",
+        "time_of_posting":"18.10.2021",
+        "feedback":"Dieting has never been easier!",
+        "image":"post_5.jpg"
+    },
+    {
+        "ID":5,"name":"Emily",
+        "time_of_posting":"02.10.2021",
+        "feedback":"PList calculates the best routes in any store, which makes shopping a lot quicker!",
+        "image":"post_4.jpg"
+        },
+    {   "ID":6,
+        "name":"Mark",
+        "time_of_posting":"idk",
+        "feedback":"Plist is a great way to save money!",
+        "image":"post_6.jpg"
+        },
+        {
+        "ID":7,"name":"Lisa",
+        "time_of_posting":"01.09.2021",
+        "feedback":"It's almost if Plist knows what I want","image":"post_7.jpg"
+        },
+    {   "ID":8,
+        "name":"Margharet",
+        "time_of_posting":"13.05.2021",
+        "feedback":"A great way to shop with your family!",
+        "image":"post_10.jpg"},{"ID":9,
+        "name":"Kevin",
+        "time_of_posting":"22.10.2021",
+        "feedback":"Loving this!",
+        "image":"post_9.jpg"
+    },
+    {
+        "ID":10,
+        "name":"Rasmus",
+        "time_of_posting":"23.10.2021",
+        "feedback":"This is great stuff and has a lot of potential to change the way we shop!",
+        "image":"post_8.jpg"
+    }
+    ]

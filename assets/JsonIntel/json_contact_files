@@ -1,0 +1,52 @@
+[
+    {   "username":"katarinafromlol1",
+        "password":"123401",
+        "email":"katarina.fromlol@gmail.com",
+        "surname":"Katariina"
+        },
+   {    "username":"Catcatlynlyn32",
+         "password":"123402",
+         "email":"Catlyn.miau@gmail.com",
+         "surname":"Catlyn"
+         },
+   {    "username":"JasonVoorhees",
+        "password":"123403",
+        "email":"Jason.Voor@gmail.com",
+        "surname":"Jason"
+        },
+   {    "username":"ToomasThePresident",
+        "password":"123404",
+        "email":"Toomas.Hernik@gmail.com",
+        "surname":"Toomas"
+        },
+   {    "username":"VahtramaeEmily",
+        "password":"123405",
+        "email":"Emily.Magi@gmail.com",
+        "surname":"Emily"
+        },
+   {    "username":"MarksonMark",
+        "password":"123406",
+        "email":"Mark.Markson@gmail.com",
+        "surname":"Mark"
+        },
+   {    "username":"Lisafromidk",
+        "password":"123407",
+        "email":"Liisa.Juur@gmail.com",
+        "surname":"Liisa"
+        },
+   {    "username":"MargaretThatcher",
+        "password":"123408",
+        "email":"Margaret.PM@gmail.com",
+        "surname":"Margaret"
+        },
+   {    "username":"Kevinfromtheoffice",
+        "password":"123409",
+        "email":"Kevin.Malone@gmail.com",
+        "surname":"Kevin"
+        },
+   {    "username":"Rasmusmagi",
+        "password":"123410",
+        "email":"Rasmus.Magi@gmail.com",
+        "surname":"Rasmus"
+        }
+        ]

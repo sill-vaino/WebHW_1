@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/JsonIntel/json contact files" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/JsonIntel/json post files" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +51,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\silverva\Desktop\WebHW_1" />
+      <recent name="C:\Users\silverva\Desktop\WebHW_1\assets" />
       <recent name="C:\Users\silverva\Desktop\WebHW_1\assets\webp_images" />
       <recent name="C:\Users\silverva\Desktop\WebHW_1\html" />
       <recent name="C:\Users\silverva\Desktop\WebHW_1\javascript" />
-      <recent name="C:\Users\silverva\Desktop\WebHW_1" />
-      <recent name="C:\Users\silverva\Desktop\WebHW_1\html\post_images" />
     </key>
   </component>
   <component name="RunManager">
@@ -93,6 +96,7 @@
       <workItem from="1635696594323" duration="2078000" />
       <workItem from="1635698782221" duration="6393000" />
       <workItem from="1635710374167" duration="22878000" />
+      <workItem from="1635782777642" duration="1502000" />
     </task>
     <task id="LOCAL−00001" summary="Tegin tühjad html failid kenasti valmis">
       <created>1632559572906</created>
@@ -226,7 +230,13 @@
       <option name="presentableId" value="LOCAL−00022" />
       <updated>1635782374643</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL−00023" summary="Maded some javascript classes and modified all page">
+      <created>1635783003174</created>
+      <option name="number" value="LOCAL−00023" />
+      <option name="presentableId" value="LOCAL−00023" />
+      <updated>1635783003174</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +281,10 @@
     </state>
     <state x="2505" y="199" key="#Inspections/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635364082615" />
     <state x="2505" y="207" key="#Inspections/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635697192082" />
+    <state x="2619" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635783306892">
+      <screen x="1920" y="2" width="1920" height="1040" />
+    </state>
+    <state x="2619" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635783306892" />
     <state x="2609" y="301" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1635362447658">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
@@ -279,10 +293,10 @@
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
     <state x="2609" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635767017377" />
-    <state x="2428" y="90" key="CommitChangelistDialog2" timestamp="1635782374075">
+    <state x="2428" y="90" key="CommitChangelistDialog2" timestamp="1635783002510">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
-    <state x="2428" y="90" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635782374075" />
+    <state x="2428" y="90" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635783002510" />
     <state x="2257" y="174" key="DiffContextDialog" timestamp="1635782518399">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
@@ -297,10 +311,10 @@
     </state>
     <state x="2380" y="167" key="SettingsEditor/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635363775385" />
     <state x="2380" y="173" key="SettingsEditor/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635697375960" />
-    <state x="2471" y="254" key="Vcs.Push.Dialog.v2" timestamp="1635782641223">
+    <state x="2471" y="254" key="Vcs.Push.Dialog.v2" timestamp="1635783024727">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
-    <state x="2471" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635782641223" />
+    <state x="2471" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635783024727" />
     <state x="2012" y="94" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1635698085934">
       <screen x="1920" y="2" width="1920" height="1080" />
     </state>
