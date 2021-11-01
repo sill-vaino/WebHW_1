@@ -1,6 +1,21 @@
 /*this is the css file for  user_view.html files.
 Here you can find all intel about lindex.html design tool*/
 
+
+#result-email{
+    color: rgba(0, 0, 0, 0.5);
+    text-decoration: underline;
+
+}
+#result-surname{
+    color: rgba(0, 0, 0, 0.5);
+    text-decoration: underline;
+
+}
+#result-username{
+    color: rgba(0, 0, 0, 0.5);
+    text-decoration: underline;
+}
 #icon {
     width: 3rem;
     height: 3rem;
@@ -17,16 +32,23 @@ Here you can find all intel about lindex.html design tool*/
     position: relative;
 }
 .dropdown-content {
+
+    border: 1px solid red;
+    text-align: left;
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     position: absolute;
     height: auto;
     width: auto;
-    background-color: rgb(136, 136, 136);
+    background-color: white;
     padding: 1rem;
     border-bottom-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
-    font-size: 1rem;
+    border-top-right-radius: 2rem;
+    font-size: small;
+
+
+
 }
 
 .hidden {
