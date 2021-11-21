@@ -10,16 +10,51 @@ img ~ p {background-color: black}
 img + p { color:red}
 .block {display: block}
 
+a.button1{
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid black;
+    margin:0 0.3em 0.3em 0;
+    border-radius:8px;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:black;
+    text-align:center;
+    transition: all 0.2s;
+}
+
+a.button1:hover{
+    color:#000000;
+    background-color:red;
+}
+
 .must {color:black;
     font-size: 200% }
 .punane {
     color:red;
     font-size: 200%;
 }
-img {border-radius: 1px;
+.center {
+    margin: 0;
+    position: relative;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.photo {border-radius: 1px;
     width: 50%;
     height: auto;
     text-align: center;
+}
+li {
+    display: inline;
+}
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #ffffff;
 }
 body {font-family: Arial, sans-serif;}
 .myDiv {
