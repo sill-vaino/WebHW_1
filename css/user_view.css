@@ -113,10 +113,12 @@ body {font-family: verdana, sans-serif;
 }
 .center {
     margin: 0;
-    position: relative;
+    position: absolute;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+
+
 }
 
 

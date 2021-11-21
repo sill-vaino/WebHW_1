@@ -251,7 +251,13 @@
       <option name="presentableId" value="LOCAL−00025" />
       <updated>1635851355619</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL−00026" summary="Maded some minor updates in about_us.css and about_us.html">
+      <created>1637511411539</created>
+      <option name="number" value="LOCAL−00026" />
+      <option name="presentableId" value="LOCAL−00026" />
+      <updated>1637511411539</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
