@@ -65,7 +65,12 @@ li a {
 h2{
     color:black;
 }
-
+.pilt {
+    float: left;
+    width:  100px;
+    height: 150px;
+    object-fit: cover;
+}
 .contact_us{
     color: rgb(163, 163, 163);
     text-align: center;
