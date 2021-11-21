@@ -1,3 +1,68 @@
+/*this is the css file for  user_about.html files.
+Here you can find all intel about user_about.html design tool*/
+
+
+#result-email{
+    color: rgba(0, 0, 0, 0.5);
+    text-decoration: underline;
+
+}
+#result-surname{
+    color: rgba(0, 0, 0, 0.5);
+    text-decoration: underline;
+
+}
+#result-username{
+    color: rgba(0, 0, 0, 0.5);
+    text-decoration: underline;
+}
+#icon {
+    width: 3rem;
+    height: 3rem;
+    margin-right: 1rem;
+    border-radius: 2rem;
+}
+
+#icon:hover {
+    cursor: pointer;
+    background-color: rgb(163, 163, 163);
+}
+
+.dropdown {
+    position: relative;
+}
+.dropdown-content {
+
+    border: 1px solid red;
+    text-align: left;
+    display: flex;
+    flex-direction: column-reverse;
+    position: absolute;
+    height: auto;
+    width: auto;
+    background-color: white;
+    padding: 0.6rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    border-top-right-radius: 2rem;
+    font-size: small;
+}
+li {
+    display: inline;
+}
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #ffffff;
+}
+
+.hidden {
+    display: none;
+}
+small{
+    color: rgba(0, 0, 0, 0.5);
+}
+
 .center {
     margin: 0;
     position: absolute;
@@ -7,18 +72,26 @@
 
 
 }
-
-
-
-
-li {
-    display: inline;
+a.button1{
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid black;
+    margin:0 0.3em 0.3em 0;
+    border-radius:8px;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:black;
+    text-align:center;
+    transition: all 0.2s;
 }
-li a {
-    display: block;
-    padding: 8px;
-    background-color: #ffffff;
+
+a.button1:hover{
+    color:#000000;
+    background-color:red;
 }
+
 h2{
     color:black;
 }
@@ -27,3 +100,4 @@ h2{
     color: rgb(163, 163, 163);
     text-align: center;
 }
+

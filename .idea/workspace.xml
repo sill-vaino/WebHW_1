@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="added the &quot;more information area&quot; to login.html area as well">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/about_us.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/about_us.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/about_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/about_us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/user_about.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/user_about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/user_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/user_view.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
     <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
@@ -257,6 +261,25 @@
       <option name="presentableId" value="LOCAL−00026" />
       <updated>1637511411539</updated>
     </task>
+    <task id="LOCAL−00027" summary="Fixed minor problems">
+      <created>1637511877570</created>
+      <option name="number" value="LOCAL−00027" />
+      <option name="presentableId" value="LOCAL−00027" />
+      <updated>1637511877570</updated>
+    </task>
+    <task id="LOCAL−00028" summary="Fixed connections between user view and first view">
+      <created>1637512710491</created>
+      <option name="number" value="LOCAL−00028" />
+      <option name="presentableId" value="LOCAL−00028" />
+      <updated>1637512710491</updated>
+    </task>
+    <task id="LOCAL−00029" summary="Fixed user view  in home mode.">
+      <created>1637513223415</created>
+      <option name="number" value="LOCAL−00029" />
+      <option name="presentableId" value="LOCAL−00029" />
+      <updated>1637513223415</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <option name="localTasksCounter" value="27" />
     <servers />
   </component>
@@ -297,6 +320,10 @@
     <MESSAGE value="Made json_contact_files &amp; json_post_files to get better information about what contains json files." />
     <MESSAGE value="Maded some minor updates in about_us.css and about_us.html" />
     <option name="LAST_COMMIT_MESSAGE" value="Maded some minor updates in about_us.css and about_us.html" />
+    <MESSAGE value="Fixed minor problems" />
+    <MESSAGE value="Fixed connections between user view and first view" />
+    <MESSAGE value="Fixed user view  in home mode." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed user view  in home mode." />
   </component>
   <component name="WindowStateProjectService">
     <state x="2505" y="207" key="#Inspections" timestamp="1635697192082">
@@ -316,11 +343,13 @@
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
     <state x="2609" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635767017377" />
+    <state x="2428" y="90" key="CommitChangelistDialog2" timestamp="1637513222730">
     <state x="2428" y="90" key="CommitChangelistDialog2" timestamp="1637511410922">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
     <state x="406" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1635784402612" />
     <state x="2428" y="90" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1637511410922" />
+    <state x="2428" y="90" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1637513222730" />
     <state x="2257" y="174" key="DiffContextDialog" timestamp="1635782518399">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
@@ -336,10 +365,12 @@
     <state x="2380" y="167" key="SettingsEditor/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1637505014219" />
     <state x="2380" y="173" key="SettingsEditor/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635697375960" />
     <state x="2471" y="254" key="Vcs.Push.Dialog.v2" timestamp="1637511415238">
+    <state x="2471" y="254" key="Vcs.Push.Dialog.v2" timestamp="1637513227076">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
     <state x="441" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1635784413362" />
     <state x="2471" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1637511415238" />
+    <state x="2471" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1637513227076" />
     <state x="2012" y="94" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1635698085934">
       <screen x="1920" y="2" width="1920" height="1080" />
     </state>
@@ -349,9 +380,11 @@
     </state>
     <state x="2012" y="94" width="1736" height="856" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635698085934" />
     <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635619956857">
+    <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637513736999">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>
     <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635619956857" />
+    <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1637513736999" />
     <state x="2493" y="31" width="1173" height="811" maximized="true" key="dock-window-1" timestamp="1635635849350">
       <screen x="1920" y="2" width="1920" height="1040" />
     </state>

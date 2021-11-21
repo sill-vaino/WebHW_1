@@ -1,21 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel = "icon" href="../assets/webp_images/plist_trans1.png" type = "image/x-icon">
+    <link rel="stylesheet" href="../css/user_about.css">
     <meta charset="UTF-8">
-    <title>Title</title>
-    <link rel="stylesheet" href="../css/index.css">
-
+    <title>Main Page</title>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="../javascript/user_view.js"></script>
+    <script>
+    </script>
 </head>
 <body>
-
 <h1 style="text-align:center;">
     <img src="../assets/webp_images/plist_trans.png" width="368" height="120" alt="logo">
 
 </h1>
+
+<h2>
+    <div class="dropdown">
+        <img src="../assets/webp_images/user.png" id="icon">
+        <div id="dropdown-content" class="dropdown-content hidden">
+            <span>Username:<br><span id="result-username"/>  </span><br>
+            <span>Email:<br><span id="result-email"/></span><br>
+            <span>Name:<br><span id="result-surname"/>  </span><br>
+        </div>
+    </div>
+</h2>
+
 <li class="center">
     <a href="index.html" class="button1">Log out</a>
     <a href="user_view.html" class="button1">Home</a>
 </li>
+
+<script src="../javascript/dropdown.js"></script>
+<script src="../javascript/openlink.js"></script>
 
 </body>
 </html>
