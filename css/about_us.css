@@ -8,8 +8,45 @@
 
 }
 
+a.button1{
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid black;
+    margin:0 0.3em 0.3em 0;
+    border-radius:8px;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:black;
+    text-align:center;
+    transition: all 0.2s;
+}
 
+a.button1:hover{
+    color:#000000;
+    background-color:red;
+}
 
+.flex-container {
+    display: flex;
+    border: 5px outset #ff0000;
+    border-radius: 8px;
+    background-color: white;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.myDiv {
+    border: 5px outset #ff0000;
+    background-color: #ffffff;
+    text-align: center;
+    width: 500px;
+    height: auto;
+    padding: 70px 0;
+    border-radius: 8px;
+    margin: auto;
+}
 
 li {
     display: inline;
@@ -26,4 +63,18 @@ h2{
 .contact_us{
     color: rgb(163, 163, 163);
     text-align: center;
+}
+
+/*Table stuff */
+
+.column{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row{
+    content:"";
+    clear: both;
+    display: table;
 }

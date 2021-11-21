@@ -115,3 +115,12 @@ button[type=submit]:hover {
     width: 100%;
     font-size: 20px;
 }
+
+h2{
+    color:black;
+}
+
+.contact_us{
+    color: rgb(163, 163, 163);
+    text-align: center;
+}
