@@ -1,0 +1,29 @@
+.center {
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+
+}
+
+
+
+
+li {
+    display: inline;
+}
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #ffffff;
+}
+h2{
+    color:black;
+}
+
+.contact_us{
+    color: rgb(163, 163, 163);
+    text-align: center;
+}
