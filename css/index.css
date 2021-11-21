@@ -111,6 +111,15 @@ a.button1:hover{
     background-color:red;
 }
 
+h2{
+    color:black;
+}
+
+.contact_us{
+    color: rgb(163, 163, 163);
+    text-align: center;
+}
+
 @media all and (max-width:30em){
     a.button1{
         display:block;

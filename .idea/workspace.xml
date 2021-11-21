@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/about_us.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/about_us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_14_17__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_14_17__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/user_view.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/user_view.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/user_view.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/user_view.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript/openlink.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript/openlink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -101,6 +110,7 @@
       <workItem from="1635782777642" duration="9539000" />
       <workItem from="1636217128758" duration="6000" />
       <workItem from="1637504342923" duration="3361000" />
+      <workItem from="1637508090751" duration="2552000" />
     </task>
     <task id="LOCAL−00001" summary="Tegin tühjad html failid kenasti valmis">
       <created>1632559572906</created>
@@ -291,78 +301,5 @@
     <MESSAGE value="Maded some javascript classes and modified all page" />
     <MESSAGE value="Made json_contact_files &amp; json_post_files to get better information about what contains json files." />
     <option name="LAST_COMMIT_MESSAGE" value="Made json_contact_files &amp; json_post_files to get better information about what contains json files." />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2505" y="207" key="#Inspections" timestamp="1635697192082">
-      <screen x="1920" y="2" width="1920" height="1080" />
-    </state>
-    <state x="2505" y="199" key="#Inspections/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635364082615" />
-    <state x="2505" y="207" key="#Inspections/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635697192082" />
-    <state x="2619" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1635783306892">
-      <screen x="1920" y="2" width="1920" height="1040" />
-    </state>
-    <state x="2619" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635783306892" />
-    <state x="2609" y="301" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper" timestamp="1635362447658">
-      <screen x="1920" y="2" width="1920" height="1040" />
-    </state>
-    <state x="2609" y="301" key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635362447658" />
-    <state x="2609" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1635767017377">
-      <screen x="1920" y="2" width="1920" height="1040" />
-    </state>
-    <state x="2609" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635767017377" />
-    <state x="2428" y="90" key="CommitChangelistDialog2" timestamp="1635851355081">
-      <screen x="1920" y="2" width="1920" height="1040" />
-    </state>
-    <state x="406" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1635784402612" />
-    <state x="2428" y="90" key="CommitChangelistDialog2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635851355081" />
-    <state x="2257" y="174" key="DiffContextDialog" timestamp="1635782518399">
-      <screen x="1920" y="2" width="1920" height="1040" />
-    </state>
-    <state x="2257" y="174" key="DiffContextDialog/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635782518399" />
-    <state x="591" y="217" key="FileChooserDialogImpl" timestamp="1635710053855">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="591" y="217" key="FileChooserDialogImpl/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1635710053855" />
-    <state x="2659" y="276" key="FileChooserDialogImpl/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635362221225" />
-    <state x="2380" y="167" key="SettingsEditor" timestamp="1637505014219">
-      <screen x="1920" y="2" width="1920" height="1040" />
-    </state>
-    <state x="2380" y="167" key="SettingsEditor/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1637505014219" />
-    <state x="2380" y="173" key="SettingsEditor/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635697375960" />
-    <state x="2471" y="254" key="Vcs.Push.Dialog.v2" timestamp="1635851361780">
-      <screen x="1920" y="2" width="1920" height="1040" />
-    </state>
-    <state x="441" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1635784413362" />
-    <state x="2471" y="254" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635851361780" />
-    <state x="2012" y="94" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1635698085934">
-      <screen x="1920" y="2" width="1920" height="1080" />
-    </state>
-    <state x="2012" y="94" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635698085934" />
-    <state x="2012" y="94" width="1736" height="856" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1635698085934">
-      <screen x="1920" y="2" width="1920" height="1080" />
-    </state>
-    <state x="2012" y="94" width="1736" height="856" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635698085934" />
-    <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1635619956857">
-      <screen x="1920" y="2" width="1920" height="1040" />
-    </state>
-    <state x="2696" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635619956857" />
-    <state x="2493" y="31" width="1173" height="811" maximized="true" key="dock-window-1" timestamp="1635635849350">
-      <screen x="1920" y="2" width="1920" height="1040" />
-    </state>
-    <state x="2493" y="31" width="1173" height="811" maximized="true" key="dock-window-1/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1635635849350" />
-    <state x="2650" y="396" width="628" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1635461513818">
-      <screen x="1920" y="2" width="1920" height="1040" />
-    </state>
-    <state x="2650" y="396" width="628" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635461513818" />
-    <state x="2536" y="241" key="run.anything.popup" timestamp="1635776462106">
-      <screen x="1920" y="2" width="1920" height="1040" />
-    </state>
-    <state x="2536" y="241" key="run.anything.popup/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635776462106" />
-    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1635776542110">
-      <screen x="1920" y="2" width="1920" height="1040" />
-    </state>
-    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824/1920.2.1920.1040@0.0.1536.824" timestamp="1635635177195" />
-    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.2.1920.1040@1920.2.1920.1040" timestamp="1635776542110" />
-    <state x="2543" y="235" width="840" height="706" key="search.everywhere.popup/0.0.1536.824/1920.2.1920.1080@1920.2.1920.1080" timestamp="1635697348323" />
   </component>
 </project>
