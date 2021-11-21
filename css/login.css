@@ -38,10 +38,12 @@ a.button1:hover{
 }
 .center {
     margin: 0;
-    position: relative;
+    position: absolute;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+
+
 }
 .photo {border-radius: 1px;
     width: 50%;
