@@ -83,6 +83,9 @@ div > p {
     justify-content: center;
     flex-direction: column;
 }
+span {
+    color:red;
+}
 
 .flex-container > div {
     background-color: white;
@@ -90,11 +93,33 @@ div > p {
     padding: 20px;
     font-size: 30px;
 }
-#like {
-    width: 3rem;
-    height: 3rem;
+.like {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-top: 0.5rem;
     margin-right: 1rem;
     border-radius: 2rem;
+}
+#reset-likes{
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid black;
+    margin:0 0.3em 0.3em 0;
+    border-radius:8px;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color: #f10b0b;
+    text-align:center;
+    transition: all 0.2s;
+
+}
+
+#reset-likes:hover{
+    color: #ffffff;
+    background-color:red;
+
 }
 
 a.button1{
