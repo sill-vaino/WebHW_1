@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/about_us.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/about_us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_14_17__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_09_2021_14_17__Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="46a7d6ae-fec2-43da-88c4-4c8917cea40f" name="Default Changelist" comment="added the information area to index.html and also added the about_us.html and about_us.css fails">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +12,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
         <option value="tsconfig.json" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -110,7 +104,7 @@
       <workItem from="1635782777642" duration="9539000" />
       <workItem from="1636217128758" duration="6000" />
       <workItem from="1637504342923" duration="3361000" />
-      <workItem from="1637508090751" duration="2552000" />
+      <workItem from="1637508090751" duration="3320000" />
     </task>
     <task id="LOCAL−00001" summary="Tegin tühjad html failid kenasti valmis">
       <created>1632559572906</created>
@@ -262,7 +256,14 @@
       <option name="presentableId" value="LOCAL−00025" />
       <updated>1635851355619</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="added the information area to index.html and also added the about_us.html and about_us.css fails">
+      <created>1637510715671</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1637510715671</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,6 +301,7 @@
     <MESSAGE value="Created directory &quot;webp_images&quot;" />
     <MESSAGE value="Maded some javascript classes and modified all page" />
     <MESSAGE value="Made json_contact_files &amp; json_post_files to get better information about what contains json files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Made json_contact_files &amp; json_post_files to get better information about what contains json files." />
+    <MESSAGE value="added the information area to index.html and also added the about_us.html and about_us.css fails" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the information area to index.html and also added the about_us.html and about_us.css fails" />
   </component>
 </project>
