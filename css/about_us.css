@@ -23,7 +23,12 @@ a.button1{
     transition: all 0.2s;
 }
 
-
+.senter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 a.button1:hover{
     color:#000000;
     background-color:red;
