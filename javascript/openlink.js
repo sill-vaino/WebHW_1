@@ -19,7 +19,13 @@
                     return;
                 }
             }
-            alert("Wrong Password or Username!")
+            const usernameField = document.getElementById("usrname").value.length;
+            const passwordField = document.getElementById("psw").value.length;
+            if (usernameField === 0 && passwordField === 0) alert("Insert Username and Password to log in!")
+            if (usernameField === 0 && passwordField !== 0  ) alert("Insert Username to log in!")
+            if (usernameField !== 0 && passwordField === 0) alert("Insert Password to log in! ")
+            else alert("Wrong Password or Username!")
+
 
         });
     });

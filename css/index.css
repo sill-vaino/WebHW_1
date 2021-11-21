@@ -50,7 +50,14 @@ body {font-family: verdana, sans-serif;
 }
 
 
-
+li {
+    display: inline;
+}
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #ffffff;
+}
 
 div > p {
     color:black;
@@ -58,10 +65,14 @@ div > p {
     padding:2px;
 }
 
-.topright {
+.center {
+    margin: 0;
     position: absolute;
-    top: 8px;
-    right: 16px;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+
+
 }
 
 .flex-container {
@@ -85,7 +96,7 @@ a.button1{
     padding:0.35em 1.2em;
     border:0.1em solid black;
     margin:0 0.3em 0.3em 0;
-    border-radius:0.12em;
+    border-radius:8px;
     box-sizing: border-box;
     text-decoration:none;
     font-family:'Roboto',sans-serif;

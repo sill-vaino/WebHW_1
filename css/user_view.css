@@ -50,6 +50,14 @@ Here you can find all intel about lindex.html design tool*/
 
 
 }
+li {
+    display: inline;
+}
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #ffffff;
+}
 
 .hidden {
     display: none;
@@ -103,7 +111,13 @@ body {font-family: verdana, sans-serif;
     background-repeat: no-repeat;
     background-size: 300px 100px;
 }
-
+.center {
+    margin: 0;
+    position: relative;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
 
 
 
@@ -119,6 +133,8 @@ div > p {
     top: 8px;
     right: 16px;
 }
+
+
 
 .flex-container {
     display: flex;
