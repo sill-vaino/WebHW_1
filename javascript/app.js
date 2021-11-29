@@ -18,7 +18,7 @@ const ScoreBoard = {
     },
 
     template: `<div class="score">
-		<h3>{{ team.score }} <button @click="incrementScore()">Like</button> </h3>
+		<h3>{{ team.score }} <img src="../assets/webp_images/like.jpg" class="like" @click="incrementScore()"></img> </h3>
 		
 	</div>`
 };

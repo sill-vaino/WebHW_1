@@ -99,6 +99,7 @@ span {
     margin-top: 0.5rem;
     margin-right: 1rem;
     border-radius: 2rem;
+    cursor: pointer;
 }
 #reset-likes{
     display:inline-block;
